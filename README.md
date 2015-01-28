@@ -19,7 +19,7 @@ Options:
 ## Installation
 
 ```
-$ npm install hbs-svg --save
+$ npm install -g hbs-svg
 ```
 
 ## Examples
