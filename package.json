@@ -1,6 +1,6 @@
 {
   "name": "hbs-svg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate Handlebars helpers for optimised inline SVG.",
   "main": "index.js",
   "bin": "bin/cmd.js",
