@@ -1,3 +1,7 @@
+## v1.0.4 / 2015-10-31
+
+ * ([bc997e9](https://github.com/tanem/hbs-svg/commit/bc997e9e5595796b7483670087242aafa6c2a8ec)) Add .editorconfig (fixes [#3](https://github.com/tanem/hbs-svg/issues/3))
+
 ## v1.0.3 / 2015-01-28
 
  * ([aba31da](https://github.com/tanem/hbs-svg/commit/aba31da55f3419072caea53bc6d9802a5e9c5f3c)) Update README
