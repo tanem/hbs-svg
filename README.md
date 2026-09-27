@@ -1,5 +1,7 @@
 # hbs-svg
 
+> **Unmaintained.** This project is no longer maintained and the repository is archived. The npm package is deprecated.
+
 [![Build Status](https://travis-ci.org/tanem/hbs-svg.png?branch=master)](https://travis-ci.org/tanem/hbs-svg)
 [![NPM version](https://badge.fury.io/js/hbs-svg.svg)](http://badge.fury.io/js/hbs-svg)
 
